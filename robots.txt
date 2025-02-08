@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://ekskul.id/sitemap.xml
+Sitemap: http://ekskul.id/sitemap.xml

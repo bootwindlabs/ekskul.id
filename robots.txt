@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: https://ekskul.id/sitemap.xml
